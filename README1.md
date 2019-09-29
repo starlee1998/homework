@@ -30,14 +30,14 @@
 
 ## 二、个人数据收集——我这周打了几次哈欠？
 
-# （一）这是我的作品
+### （一）这是我的作品
 ![第一张](https://github.com/starlee1998/homework/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190928103642.jpg)
 ![第二张](https://github.com/starlee1998/homework/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190928103707.jpg)
 
-# （二）制作心得
+### （二）制作心得
 
 - 想到这个选题是在第一次上课的时候。当时老师正在讲台上说这个作业，我打了一个哈欠，然后忽然想到可以记录一下一周打哈欠的次数、地点和原因。为了方便携带，我用手机WPS便签进行记录，最后统一整理到Excel文档中
-[元数据]((https://github.com/starlee1998/homework/blob/master/week1%E6%95%B0%E6%8D%AE.xlsx)
+[元数据](https://github.com/starlee1998/homework/blob/master/week1%E6%95%B0%E6%8D%AE.xlsx)
 
 - 在整理数据之后，就是考虑用怎样的形式来呈现它。我阅读了网上能找到的dear data的内容，感觉他们的图形虽然简单，但是呈现的数据信息都很清晰，这很大程度上是因为他们写了比较详细的“图例”，所以我在制作的时候也详细地写了“图例”。在阅读dear data之外，我还粗略地看了Data + Design中与可视化有关的部分，但是真正能够反映到我的作品中的东西不多。
 
