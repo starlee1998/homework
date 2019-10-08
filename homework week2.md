@@ -1,4 +1,4 @@
-# 我国还有哪些关于公共数据开放的条例或法规？
+# 1.我国还有哪些关于公共数据开放的条例或法规？
 
 [国家重要产品追溯体系（来源国务院）：《促进大数据发展行动纲要》（国发[2015]50号）](http://www.zyczs.gov.cn/html/xzfg/2018/9/1536891571437.html)
 
@@ -44,7 +44,7 @@
 [山东省人民政府：山东省政务信息资源共享管理办法](http://www.shandong.gov.cn/art/2015/2/6/art_2259_26124.html)
 
 
-# 国内外有哪些政府开放数据平台？
+# 2.国内外有哪些政府开放数据平台？
 
 ## 国内
 
@@ -96,5 +96,70 @@
 
 [无锡市政府数据服务网](http://gxj.wuxi.gov.cn/zfxxgk/sjkf/index.shtml)
 
+[扬州市政务数据服务网](http://data.yangzhou.gov.cn/)
+
+[乌海市数据开放平台](http://www.wuhai.gov.cn/wuhai/zwgk/sjkf/index.html)
+
+[滨州市公共数据开放网](http://bzdata.sd.gov.cn/)
+
+[德州市公共数据开放网](http://dzdata.sd.gov.cn/)
+
+[东营市公共数据开放网](http://dydata.sd.gov.cn/)
+
+[济宁市公共数据开放网](http://jindata.sd.gov.cn/)
+
+[聊城市公共数据开放网](http://lcdata.sd.gov.cn/)
+
+[临沂市公共数据开放网](http://lydata.sd.gov.cn/)
+
+[威海市公共数据开放网](http://whdata.sd.gov.cn/)
+
+[潍坊市公共数据开放网](http://wfdata.sd.gov.cn/)
+
+[烟台市公共数据开放网](http://ytdata.sd.gov.cn/)
+
+[枣庄市公共数据开放网](http://www.zzdata.gov.cn/)
+
+[淄博市公共数据开放网](http://zbdata.sd.gov.cn/)
+
+[山东公共数据开放网](http://data.sd.gov.cn/)
+
+
+## 国外
+
+### 政府
+
+[美国政府数据开放网](https://www.data.gov/)
+
+[纽约政府开放数据平台](https://opendata.cityofnewyork.us/)
+
+[英国政府数据开放网](https://data.gov.uk/)
+
+[澳大利亚政府数据开放网](https://data.gov.au/)
+
+[阿根廷政府数据开放网](	http://www.datos.gob.ar/)
+
+[日本政府数据开放网](https://www.data.go.jp/)
+
+[新加坡政府数据开放网](https://data.gov.sg/)
+
+截止2017年全球已经有75个国家签署了《开放政府宣言》，并上线了数据开放网站，在此不再一一列举，详情可见几个汇总贴
+
+[各国(地区)政府开放数据网站](http://ju.outofmemory.cn/entry/337957)
+
+[【Open Data】国外开放数据中心及政府数据开放平台汇总](http://www.tanmer.com/blog/537)
+
+### 国际组织
+
+许多国际组织都有数据开放网站，在此列出几个
+
+[UNdata](http://data.un.org/)
+
+[World Bank](https://data.worldbank.org/)
+
+[Open Government-OECD](http://www.oecd.org/gov/open-government.htm)
+
+
+# 3.在国家统计局数据库找到全国GDP数据，回答：2012-2018年各季度GDP增速（列出选取的统计指标、数据页面、计算步骤及答案）
 
 
