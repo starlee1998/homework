@@ -4,10 +4,12 @@
 
 从[Top 10 Highest Grossing Films (1975-2018)](https://www.kaggle.com/bidyutchanda/top-10-highest-grossing-films-19752018/downloads/top-10-highest-grossing-films-19752018.zip/1)中截取了2011-2018年的数据，对其进行统计处理。
 
-### 呈现：2011-2018：哪家电影公司是最大赢家？
+### 呈现：
 
 
-- TOP电影的类型
+- TOP电影主题：动作冒险类电影最多
+
+这里选取的数据为`Main_Genre`、`Genre_2`、`Genre_3`，即TOP电影的三个类型标签
 
 
      ***工具一：镝数***
@@ -19,10 +21,14 @@
      ***工具三：BDP***
      ![](https://github.com/starlee1998/homework/blob/master/top%E7%94%B5%E5%BD%B1%E4%B8%BB%E9%A2%983.png)
      
+     
+    
 
 - TOP电影的时长和分级
 
-     时长
+这一部分关注电影的主题与时长和分级的关系，选取的数据为`Main_Genre`、`length`、`rating`。
+
+     **时长**
      
      ***工具一：镝数***
      ![](https://github.com/starlee1998/homework/blob/master/%E4%B8%BB%E9%A2%98%E4%B8%8E%E6%97%B6%E9%95%BF1.png)
