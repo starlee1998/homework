@@ -9,9 +9,29 @@
 
 - Top电影的主要类型
 
+
      ***工具一：镝数***
+     ![](https://github.com/starlee1998/homework/blob/master/top%E7%94%B5%E5%BD%B1%E4%B8%BB%E9%A2%98.png)
+     
+     ***工具二：Tableau***
+     ![](https://github.com/starlee1998/homework/blob/master/%E4%B8%89%E4%B8%AA%E4%B8%BB%E8%A6%81%E6%A0%87%E7%AD%BE%E5%88%86%E5%B8%83%E6%83%85%E5%86%B52.png)
+     
+     ***工具三：***
+     ![]()
+     
 
-![](https://github.com/starlee1998/homework/blob/master/top%E7%94%B5%E5%BD%B1%E4%B8%BB%E9%A2%98.png)
+- 各公司Top电影的表现
 
 
-- 
+     ***工具一：镝数***
+     ![各公司Top电影的表现](https://github.com/starlee1998/homework/blob/master/%E4%B8%89%E9%A1%B9%E5%B9%B3%E5%9D%87%E5%80%BC.png)
+     
+     ***工具二：Tableau***
+     ![各公司Top电影的表现](https://github.com/starlee1998/homework/blob/master/%E4%B8%89%E9%A1%B9%E5%B9%B3%E5%9D%87%E5%80%BC%202.png)
+     
+     ***工具三***
+     ![]()
+     
+
+
+     
