@@ -4,6 +4,8 @@
 - [镝数](https://dydata.io/appv2/#/pages/index/home)
 - [BDP](https://me.bdp.cn/home.html)
 - [fineBI](https://www.finebi.com/)
+- [图表秀](https://www.tubiaoxiu.com/index.html)
+
 
 
 ### 国外
@@ -102,8 +104,18 @@ ___
 ![各公司Top电影的表现](https://github.com/starlee1998/homework/blob/master/%E4%B8%89%E9%A1%B9%E5%B9%B3%E5%9D%87%E5%80%BC3.png)
      
 
+
+### 最后，我用图表秀做了一个比较整幅的作品
+
+[2011-2018 : top-10-highest-grossing-films](https://www.tubiaoxiu.com/p.html?c=3c07763e-1828-4322-a15e-b74ef1368d7a#/0)
+
+
 ——————
 ### 我的感想
 
+- 我发现目前的可视化工具可以分成两类，一类是比较傻瓜的，类似于美图秀秀的东西，里面有图表模板，只需要把自己的数据导入就可以得到图表，但是这样得到的图表都是最基础的图形，很难有创新。另一类是工具需要编程能力的，可创造的空间比较大，可以做出更复杂好看的图，看完之后感觉对于我这样的编程小白来说，要学习的东西有好多……
 
+- 我做作业的时候使用的是镝数、tableau和BDP，其中我认为BDP是最好用的。镝数不好用的地方在于它不能计算，很多时候要自己先在Excel里统计出一个新的数据表，然后再导入进去；tableau和BDP都具有一定的计算功能，但是与tableau相比，BDP界面更加友好，功能比较简单，tableau可以实现更多的功能。
+
+- 
      
