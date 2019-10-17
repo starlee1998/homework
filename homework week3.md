@@ -15,6 +15,20 @@
 - [Datawrapper](https://www.datawrapper.de/)
 - [observable](https://observablehq.com)
 - [powerBI](https://powerbi.microsoft.com/zh-cn/get-started/)
+- [Google 数据洞察](https://developers.google.cn/datastudio?hl=de)
+- [Google Charts](http://www.google-chart.com/2013/04/)
+- [Leaflet](https://leafletjs.com/)
+- [RawGraphs](https://rawgraphs.io/)
+- [knight lab time lines](http://timeline.knightlab.com/)
+- [Chartist.js](http://gionkunz.github.io/chartist-js/)
+- [ColorBrewer](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+- [D3.js](https://d3js.org/)
+- [Plotly](https://plot.ly/python/)
+- [Polymaps](http://polymaps.org/)
+- [Dygraphs](http://dygraphs.com/)
+- [GanttPro](https://ganttpro.com/)
+
+
 
 
 ___
@@ -115,7 +129,7 @@ ___
 
 - 我发现目前的可视化工具可以分成两类，一类是比较傻瓜的，类似于美图秀秀的东西，里面有图表模板，只需要把自己的数据导入就可以得到图表，但是这样得到的图表都是最基础的图形，很难有创新。另一类是工具需要编程能力的，可创造的空间比较大，可以做出更复杂好看的图，看完之后感觉对于我这样的编程小白来说，要学习的东西有好多……
 
-- 我做作业的时候使用的是镝数、tableau和BDP，其中我认为BDP是最好用的。镝数不好用的地方在于它不能计算，很多时候要自己先在Excel里统计出一个新的数据表，然后再导入进去；tableau和BDP都具有一定的计算功能，但是与tableau相比，BDP界面更加友好，功能比较简单，tableau可以实现更多的功能。
+- 我做作业的时候使用的是镝数、tableau和BDP，其中我认为BDP是最好用的。镝数不好用的地方在于它不能计算，很多时候要自己先在Excel里统计出一个新的数据表，然后再导入进去；tableau和BDP都具有一定的计算功能，但是与tableau相比，BDP界面更加友好，功能比较简单，比较容易上手，tableau可以实现更多的功能。
 
-- 
+- 我发现每种图表都有它的适用范围，有些图表好看但是不一定适合呈现我想呈现的数据，在制作之前需要弄清楚每种图表的意思，然后再合理选择。
      
