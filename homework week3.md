@@ -57,6 +57,8 @@ ___
 
 ***工具三：BDP***
 
+`BDP只能做两层的桑基图，所以选择了每部电影的前面两个主题`
+
 ![](https://github.com/starlee1998/homework/blob/master/top%E7%94%B5%E5%BD%B1%E4%B8%BB%E9%A2%983.png)
      
      
@@ -79,8 +81,6 @@ ___
 ![](https://github.com/starlee1998/homework/blob/master/%E4%B8%BB%E9%A2%98%E4%B8%8E%E6%97%B6%E9%95%BF2.png)
 
 ***工具三：BDP***
-
-`BDP只能做两层的桑基图，所以选择了每部电影的前面两个主题`
 
 ![](https://github.com/starlee1998/homework/blob/master/%E4%B8%BB%E9%A2%98%E4%B8%8E%E6%97%B6%E9%95%BF3.png)
      
