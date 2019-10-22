@@ -27,7 +27,8 @@
 - [Polymaps](http://polymaps.org/)
 - [Dygraphs](http://dygraphs.com/)
 - [GanttPro](https://ganttpro.com/)
-
+- [Flourish](https://app.flourish.studio/projects)
+- [google public data](https://www.google.com/publicdata/directory?hl=en_US&dl=en_US#!)
 
 
 
