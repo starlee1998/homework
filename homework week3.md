@@ -29,6 +29,10 @@
 - [GanttPro](https://ganttpro.com/)
 - [Flourish](https://app.flourish.studio/projects)
 - [google public data](https://www.google.com/publicdata/directory?hl=en_US&dl=en_US#!)
+- [Vizzlo](https://vizzlo.com/)
+- [Data lllustrator](http://data-illustrator.com/)
+- [Charticulator](https://charticulator.com/app/index.html)
+
 
 
 
