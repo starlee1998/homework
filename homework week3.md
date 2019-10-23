@@ -32,6 +32,7 @@
 - [Vizzlo](https://vizzlo.com/)
 - [Data lllustrator](http://data-illustrator.com/)
 - [Charticulator](https://charticulator.com/app/index.html)
+- [knoema](https://cn.knoema.com/)
 
 
 
