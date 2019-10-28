@@ -4,7 +4,7 @@
 
    We always want to produce more GDP while consuming less resources and producing less pollution. However, in countries with long-term high GDP growth (such as China and India), waste production tends to "go hand in hand" with GDP in the natural state, maintaining a high rate of increase and causing many environmental problems. This requires government measures to break the link between the two and decouple the growth of waste production from GDP growth.
    
-[](https://github.com/starlee1998/homework/blob/master/%E5%9B%BE%E4%B8%80.png)
+![](https://github.com/starlee1998/homework/blob/master/%E5%9B%BE%E4%B8%80.png)
 
    In recent years, China attaches great importance to environmental issues and has introduced many policies that may be beneficial to the reduction of decoupling index.Recognizing that the increasing resources and environmental pressures for sustainable development are the biggest challenges of the future economic development, the then President Hu Jintao proposed the “Scientific Development View” in 2003, and the subsequent 11th Five-Year Plan also regards environmental protection as an important part. What’s more, a leading group for energy conservation and emission reduction led by Wen Jiabao was established. During this period, waste production was decoupled from GDP growth, which partly reflects the effectiveness of the policy.
 
@@ -12,7 +12,7 @@
    
    Some countries adopt a system of garbage metering and charging to promote waste reduction. In layman's terms, it is “Pay as You Throw”——PAYT. Since 1924, when the city of Berkeley in the United States first imposed household waste treatment fee, other countries and regions have begun to follow suit and achieved good results. According to previous experience, after the large-scale implementation of waste metering and charging system, the amount of per capita daily domestic waste will be significantly reduced, which to some extent realizes the reduction of waste source.
 
-[](https://github.com/starlee1998/homework/blob/master/%E5%9B%BE%E4%BA%8C.png)
+![](https://github.com/starlee1998/homework/blob/master/%E5%9B%BE%E4%BA%8C.png)
 
    At present, Japan, South Korea, Sweden, Germany, Belgium, Belgium and many other countries have established a garbage metering and charging system. Some scholars have found that the management of urban domestic garbage charges can be divided into two categories: European and American、Asia-Pacific . The typical European and American countries are the community charging model represented by the United States and the mixed charging model represented by Germany. The Asia-Pacific countries and regions are typically based on the bag-based charging model represented by Japan and South Korea.
 
