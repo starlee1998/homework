@@ -2,9 +2,9 @@
 
 ### PAYT——Promote the Decoupling of Waste Production from GDP Growth
 
-PAYT, "Pay as You Throw" is first proposed by the United States.  Since 1924, when the city of Berkeley first imposed household waste treatment fee, other countries and regions have begun to follow suit. 
+PAYT——"Pay as You Throw" is first proposed by the United States. Since 1924, when the city of Berkeley first imposed household waste treatment fee, other countries and regions have begun to follow suit. 
 
-Nowadays, Japan, South Korea, Sweden, Germany, Belgium, Belgium and many other countries have established a garbage metering and charging system. Some scholars put waste metering and charging models into two categories: European and American type and Asia-Pacific type. In European and American countries, the community charging model represented by the United States and the mixed charging model represented by Germany are the most typical. The Asia-Pacific countries and regions are typically based on the bag-based charging model represented by Japan and South Korea.
+Nowadays, Japan, South Korea, Sweden, Germany, Belgium and many other countries have established a garbage metering and charging system. Some scholars put waste metering and charging models into two categories: European and American type and Asia-Pacific type. In European and American countries, the community charging model represented by the United States and the mixed charging model represented by Germany are the most typical. The Asia-Pacific countries and regions are typically based on the bag-based charging model represented by Japan and South Korea.
 
 ![](https://github.com/starlee1998/homework/blob/master/%E5%9B%BE%E4%BA%8C.png)
 
@@ -16,13 +16,13 @@ Since 2000, China attaches great importance to environmental issues and has intr
 
 ![](https://github.com/starlee1998/homework/blob/master/%E5%9B%BE%E4%B8%80.png)
 
-Domestic garbage collection fees began in the late 20th century. In 2002, the four ministries and commissions jointly issued the “Notice on Implementing the Urban Garbage Disposal Charging System and Promoting the Industrialization of Waste Disposal”, which strongly advocated the collection of municipal solid waste disposal fees. However, China's garbage charges have not adopted a large-scale metering and charging model, but only in some areas for pilot exploration.
+Domestic garbage collection fees began in the late 20th century. In 2002, the four ministries and commissions jointly issued the “Notice on Implementing the Urban Garbage Disposal Charging System and Promoting the Industrialization of Waste Disposal”, which strongly advocated the collection of municipal solid waste disposal fees. However, China's waste charges have not adopted a large-scale metering and charging model, but only in some areas for pilot exploration.
 
 Ten years later, the then President Hu Jintao proposed the “Scientific Development View” in 2003, and the subsequent 11th Five-Year Plan also regards environmental protection as an important part. What’s more, a leading group for energy conservation and emission reduction led by Wen Jiabao was established. During this period, waste production was decoupled from GDP growth, which partly reflects the effectiveness of the policy.
 
 Although initial results have been achieved, China’s current environmental and waste policies, including the recently-recognized “garbage classification” policy, are mainly focused on waste disposal, which is conducive to improving resource utilization, However, from the perspective of calculation, it has a limited effect on decoupling waste production from GDP growth.To achieve decoupling, we still need to reduce the source of waste.
 
-In the past two years, the waste sorting system has gradually been introduced from the pilot to the whole country, creating conditions for waste metering and charging. The National Development and Reform Commission issued the "Opinions on Innovation and Improvement of the Price Mechanism for Promoting Green Development", proposing that before the end of 2020, cities and towns across the country will establish a comprehensive domestic garbage disposal fee system and conduct conditional metering charges.By then, people may actually consciously reduce waste generation for economic reasons.
+In the past two years, the waste sorting system has gradually been introduced from the pilot to the whole country, creating conditions for waste metering and charging. The National Development and Reform Commission issued the "Opinions on Innovation and Improvement of the Price Mechanism for Promoting Green Development", proposing that before the end of 2020, cities and towns across the country will establish a comprehensive domestic waste disposal fee system and conduct conditional metering charges.By then, people may actually consciously reduce waste generation for economic reasons.
    
 # 数据来源及收集过程
 
@@ -77,7 +77,6 @@ http://www.sohu.com/a/324661443_99981592)”，但是我觉得这个角度不太
 
 - 选题四：垃圾计量收费
 
-我一直围绕着“如何降低脱钩指数”
-如果非要在选题三与选题四之间做出选择的话，我认为选题四要优于选题三。因为它既是我国未来垃圾政策的发展方向，又与目前的垃圾分类政策密切相关，而且还有许多国外的经验可以借鉴。
+我一直围绕着“如何降低脱钩指数”想新的突破口，降低脱钩指数，在GDP增长无法改变的情况下，无非就是降低垃圾生产量。所以我查了很多降低垃圾生产量的资料，一开始一直无法查到我想要的点，后来周一的时候终于看到了一个新名词“垃圾源头减量化”，在搜索如何垃圾减量化的时候，又看到了垃圾计量收费制度。了解了这一制度之后，觉得这是一个对我国来说比较前沿的角度。于是决定把这一角度与脱钩指数结合起来，完成了这个作品。但是如果非要在选题三与选题四之间做出选择的话，我认为选题四要优于选题三，因为它既是我国未来垃圾政策的发展方向，又与目前的垃圾分类政策密切相关，而且还有许多国外的经验可以借鉴。
 
 
