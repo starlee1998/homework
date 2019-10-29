@@ -2,7 +2,7 @@
 
 ### PAYT——Promote the Decoupling of Waste Production from GDP Growth
 
-&ensp;PAYT——"Pay as You Throw" is first proposed by the United States. Since 1924, when the city of Berkeley first imposed household waste treatment fee, other countries and regions have begun to follow suit. 
+&#8194；PAYT——"Pay as You Throw" is first proposed by the United States. Since 1924, when the city of Berkeley first imposed household waste treatment fee, other countries and regions have begun to follow suit. 
 
 &ensp;Nowadays, Japan, South Korea, Sweden, Germany, Belgium and many other countries have established a garbage metering and charging system. Some scholars put waste metering and charging models into two categories: European and American type and Asia-Pacific type. In European and American countries, the community charging model represented by the United States and the mixed charging model represented by Germany are the most typical. The Asia-Pacific countries and regions are typically based on the bag-based charging model represented by Japan and South Korea.
 
