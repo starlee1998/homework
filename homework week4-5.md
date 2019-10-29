@@ -1,4 +1,6 @@
-# 作品
+<details>
+<summary># 作品</summary>
+<pre><code>
 
 ### PAYT——Promote the Decoupling of Waste Production from GDP Growth
 
@@ -23,8 +25,14 @@
 &#160; &#160; &#160; &#160;Although initial results have been achieved, China’s current environmental and waste policies, including the recently-recognized “*garbage classification*” policy, are mainly focused on waste disposal, which is conducive to improving resource utilization, However, from the perspective of calculation, it has a limited effect on decoupling waste production from GDP growth.To achieve decoupling, we still need to reduce the source of waste.
 
 &#160; &#160; &#160; &#160;In the past two years, the waste sorting system has gradually been introduced from the pilot to the whole country, creating conditions for waste metering and charging. The National Development and Reform Commission issued the *Opinions on Innovation and Improvement of the Price Mechanism for Promoting Green Development*, proposing that before the end of 2020, cities and towns across the country will establish a comprehensive domestic waste disposal fee system and conduct conditional metering charges.By then, people may actually consciously reduce waste generation for economic reasons.
-   
-# 数据来源及收集过程
+
+</code></pre>
+</details>
+
+
+<details>
+<summary># 数据来源及收集过程</summary>
+<pre><code>
 
 &#160; &#160; &#160; &#160;图一的数据来自美国统计年鉴（1990-2005），日本统计年鉴（1995-2010）、韩国环境年鉴（1990-2005）、台北市统计年报（84年-99年）、2017年日本环境年报，我优先采用“人均每天生活垃圾生产量”这一指标，对没有找到“人均每天生活垃圾生产量”这一指标的国家和地区，结合“生活垃圾生产量”和年鉴中的人口数据或[世界银行公布的人口数据](https://data.worldbank.org/indicator/SP.POP.TOTL)计算人均每日产量。
 
@@ -32,7 +40,7 @@
 
 &#160; &#160; &#160; &#160;图二的数据来自中国统计年鉴，数据很好找，但是让我头疼的是我国并没有官方公布“垃圾产量”，公布的最接近的数据是“垃圾清运量”。我看统计局网站对于垃圾清运量的解释是“生活垃圾清运量是指报告期收集和运送到各生活垃圾处理场（厂）和生活垃圾最终消纳点的生活垃圾数量”，从字面意思来看，垃圾清运量会受到清运率等因素的限制而不能完全等于生产量。我在网上查我国的垃圾清运率，但是并没有找到，后来又去看了一些地方年鉴，发现北京等地方年鉴中同时公布的生活垃圾生产量和生活垃圾清运量在数值上是相等的，所以我在计算脱钩指数时采用的是“生活垃圾清运量”代替“生活垃圾生产量”，这是不够严谨的地方。
 
-脱钩指数是计算出来的，依据联合国环境规划署（UNEP）对脱钩的定义，公式为`脱钩指数 = 垃圾产量的增长量/GDP的增长量`，脱钩指数大小与是否脱钩的关系，我已经在图中标注了出来。
+&#160; &#160; &#160; &#160;脱钩指数是计算出来的，依据联合国环境规划署（UNEP）对脱钩的定义，公式为`脱钩指数 = 垃圾产量的增长量/GDP的增长量`，脱钩指数大小与是否脱钩的关系，我已经在图中标注了出来。
 
 在图中数据之外，我还参考了两方面的**论文和报告**。
 
@@ -56,8 +64,12 @@
 
  - 伊凤娜. 中国的垃圾政策对垃圾和垃圾排放与GDP增长脱钩的影响[D].浙江工业大学,2017.
 
+</code></pre>
+</details>
 
-# 选题角度思考过程
+<details>
+<summary># 选题角度思考过程</summary>
+<pre><code>
 
 &#160; &#160; &#160; &#160;我先认真看了不到十篇Detail Graphic的作品，发现这些作品往往有点泛学术的色彩，有很多灵感来源于前沿研究，有的还把研究出来的结论当做类似模板之类的东西，支撑自己的数据选择和呈现角度。所以我在阅读了国内有关垃圾的数据新闻作品后，转向了国内外关于垃圾问题的研究，想要从学者的关注点获得灵感。我先后想了四个选题。
 
@@ -79,4 +91,5 @@
 
 &#160; &#160; &#160; &#160;我一直围绕着“如何降低脱钩指数”想新的突破口，降低脱钩指数，在GDP增长无法改变的情况下，无非就是降低垃圾生产量。所以我查了很多降低垃圾生产量的资料，一开始一直无法查到我想要的点，后来周一的时候终于看到了一个新名词“垃圾源头减量化”，在搜索如何垃圾减量化的时候，又看到了垃圾计量收费制度。了解了这一制度之后，觉得这是一个对我国来说比较前沿的角度。于是决定把这一角度与脱钩指数结合起来，完成了这个作品。如果说非要把选题三与选题四割裂开来并在其中做出选择的话，我认为选题四要优于选题三，因为它既是我国未来垃圾政策的发展方向，又与目前的垃圾分类政策密切相关。
 
-
+<code/><pre/>
+<details/>
