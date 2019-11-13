@@ -39,14 +39,14 @@
 
 &#160; &#160; &#160; &#160;我先了解了一下这个组织：CRIN在2008年之前一直由英国救助儿童会主办，2008年后在英国正式注册为一个独立的非营利性组织，由Company House (Company Limited by Guarantee No 6653398)和Charity Commission (Charity No 1125925)监管。网站上对自己的定位是“一个全球性的研究、政策和倡导组织。我们的工作以《联合国儿童权利公约》为基础”。
 
-&#160; &#160; &#160; &#160;我感觉这是一个正规的、比较可靠的组织，数据相对也比较可信。我主要参考了这个组织网站上的一篇文章Minimum Age of Criminal Responsibility Around the World，里面按亚洲、非洲、欧洲、拉丁美洲和大洋洲分类，梳理了五大洲各个国家法律对于最低刑事责任年龄的规定。每个国家后面都列了参考文件或法律的链接，大部分也注明了第几款第几条，我验证了几个国家，确实没有问题。但由于这是几年前整理的数据（我判断是2014年左右），不排除个别国家法律更新而这里没有更新的情况。（但这个网站还挺严谨的，有些国家后面注有“本文整理时xxx国家正在进行xxx法律改革……”类似这样的话，提示阅读者在用数据时注意这一点；此外，文章末尾还留有联系方式，如果有错误或更新的地方，呼吁阅读者提示他们）
+&#160; &#160; &#160; &#160;我感觉这是一个正规的、比较可靠的组织，数据相对也比较可信。我主要参考了这个组织网站上的一篇文章[Minimum Age of Criminal Responsibility Around the World](https://archive.crin.org/en/home/ages.html)，里面按亚洲、非洲、欧洲、拉丁美洲和大洋洲分类，梳理了五大洲各个国家法律对于最低刑事责任年龄的规定。每个国家后面都列了参考文件或法律的链接，大部分也注明了第几款第几条，我验证了几个国家，确实没有问题。但由于这是几年前整理的数据（我判断是2014年左右），不排除个别国家法律更新而这里没有更新的情况。（但这个网站还挺严谨的，有些国家后面注有“本文整理时xxx国家正在进行xxx法律改革……”类似这样的话，提示阅读者在用数据时注意这一点；此外，文章末尾还留有联系方式，如果有错误或更新的地方，呼吁阅读者提示他们）
 
 &#160; &#160; &#160; &#160;出于对数据负责的态度应该在此本文基础上进行验证，但是由于挨个国家验证的工作量实在很大，我在交作业之前未能完成。不过，我采用了与其他文件相互佐证的方法，一定程度避免了法律更新的问题。
 
 ### 佐证的文件包括：
-1.	欧盟委员会的Summary of contextual overviews on children’s involvement in criminal judicial proceedings in the 28 Member States of the European Union
-2.	菲律宾无线电视广播集团ABS-CBN的报道LIST: Age of criminal liability in some Asian countries
-3.	Penal reform international的Justice for Children Briefing No.4: The minimum age of criminal responsibility
+1.	欧盟委员会的[Summary of contextual overviews on children’s involvement in criminal judicial proceedings in the 28 Member States of the European Union](https://op.europa.eu/en/publication-detail/-/publication/a9bf8d65-2551-4461-9cc5-f98a5c57e880)
+2.	菲律宾无线电视广播集团ABS-CBN的报道[LIST: Age of criminal liability in some Asian countries](https://news.abs-cbn.com/focus/01/23/19/list-age-of-criminal-liability-in-some-asian-countries)
+3.	Penal reform international的[Justice for Children Briefing No.4: The minimum age of criminal responsibility](https://www.penalreform.org/resource/justice-children-briefing-no4-minimum-age-criminal-responsibility/)
 4.	谷歌搜索部分国家的数据，来自不同的来源
 
 **世界法系分布的数据来源是维基百科中的一张图**
