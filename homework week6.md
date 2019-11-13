@@ -20,7 +20,7 @@
 
 ### 牢狱经历或导致青少年再次犯罪
 
-&#160; &#160; &#160; &#160;根据我国部分省份和地区的司法统计数据[^1]，财产类犯罪为青少年犯罪的主要类型，占青少年犯罪总数的50%左右，而杀人、强奸等严重暴力犯罪所占比例普遍较低。因此，中国政法大学副教授苑宁宁说，低龄未成年人恶性案件属于极端个案，因此而修改针对大多数人的一般性的刑事责任年龄制度，值得商榷。
+&#160; &#160; &#160; &#160;根据我国部分省份和地区的司法统计数据[1]，财产类犯罪为青少年犯罪的主要类型，占青少年犯罪总数的50%左右，而杀人、强奸等严重暴力犯罪所占比例普遍较低。因此，中国政法大学副教授苑宁宁说，低龄未成年人恶性案件属于极端个案，因此而修改针对大多数人的一般性的刑事责任年龄制度，值得商榷。
 
 &#160; &#160; &#160; &#160;降低最低刑事责任年龄，意味着同等条件下将有更多的少年儿童进入监狱，失去自由。然而目前一些儿童权益组织普遍认为，青少年过早入狱不利于未来发展和社会稳定。
 
@@ -28,9 +28,9 @@
 
 ![](https://github.com/starlee1998/homework/blob/master/tu2.jpg)
 
-&#160; &#160; &#160; &#160;曾有国外研究表明 [^2]，三分之二被关在少管所的青少年都有一种或多种心理健康问题，这是普通人群中青少年比例的几倍。十分之三的羁押少年曾有过至少一次自杀念头。 [^3] 也有研究表明，被羁押的青少年出现学习障碍的比例比较高，往往表现出较低的学术成就。 [^4] 这些或许都是他们重获自由后难以适应社会的原因，最终导致他们重新走上犯罪道路。
+&#160; &#160; &#160; &#160;曾有国外研究表明 [2]，三分之二被关在少管所的青少年都有一种或多种心理健康问题，这是普通人群中青少年比例的几倍。十分之三的羁押少年曾有过至少一次自杀念头。 [3] 也有研究表明，被羁押的青少年出现学习障碍的比例比较高，往往表现出较低的学术成就。 [4] 这些或许都是他们重获自由后难以适应社会的原因，最终导致他们重新走上犯罪道路。
 
-&#160; &#160; &#160; &#160;美国司法统计局2014年发布的一份报告 [^5]汇总了美国追踪累犯的39个州的数据后发现，在所有州的释放人员中，青少年比成年人更容易犯罪，青少年三年之内再犯率为76％，五年之内为84％。而通过教育和福利制度来干预的青少年，之后的再犯率会明显降低。
+&#160; &#160; &#160; &#160;美国司法统计局2014年发布的一份报告 [5]汇总了美国追踪累犯的39个州的数据后发现，在所有州的释放人员中，青少年比成年人更容易犯罪，青少年三年之内再犯率为76％，五年之内为84％。而通过教育和福利制度来干预的青少年，之后的再犯率会明显降低。
 
 
 # 数据来源及收集过程
@@ -63,19 +63,19 @@
 **除上述数据之外，我在定选题和写文字稿的过程中还参考了以下论文和新闻：**
 
 
-[^1]:
+[1]:
 
 [广东省未成年人检察工作白皮书](http://www.gd.jcy.gov.cn/xwzx/jdxw/201905/P020190528555554533388.pdf)、
 [浙江发布未成年人检查工作白皮书](http://zj.sina.com.cn/zhoushan/2019-05-29/detail-ihvhiews5334077.shtml)、
 [江西省2018年未成年人检察工作白皮书](http://www.jxjinxian.jcy.gov.cn/jwgk/201904/t20190402_2529711.shtml)、[贵州省检察院发布未成年人检察工作白皮书](http://www.sohu.com/a/318141944_120053767)、[重庆市人民检察院关于未成年人刑事检察工作情况的报告](http://www.ccpc.cq.cn/Home/Index/more/id/208954.html)
 
-[^2]:[Shufelt Jennie L. & Joseph J. Cocozza, Youth with Mental Health Disorders in the Juvenile Justice System: Results from the Multi-State Prevalence Study, Research and Program Brief, National Center for Mental Health and Juvenile Justice, June 2006](https://www.unicef.org/tdad/usmentalhealthprevalence06(3).pdf)
+[2]:[Shufelt Jennie L. & Joseph J. Cocozza, Youth with Mental Health Disorders in the Juvenile Justice System: Results from the Multi-State Prevalence Study, Research and Program Brief, National Center for Mental Health and Juvenile Justice, June 2006](https://www.unicef.org/tdad/usmentalhealthprevalence06(3).pdf)
 
-[^3]:[The Annie E. Casey Foundation:NO PLACE FOR KIDS The Case for Reducing Juvenile Incarceration](https://www.aecf.org/resources/no-place-for-kids-full-report/)
+[3]:[The Annie E. Casey Foundation:NO PLACE FOR KIDS The Case for Reducing Juvenile Incarceration](https://www.aecf.org/resources/no-place-for-kids-full-report/)
 
-[^4]:[Sedlak, et al., Survey of Youth in Residential Placement:Youth’s Needs and Services](https://www.ncjrs.gov/pdffiles1/ojjdp/grants/227660.pdf)
+[4]:[Sedlak, et al., Survey of Youth in Residential Placement:Youth’s Needs and Services](https://www.ncjrs.gov/pdffiles1/ojjdp/grants/227660.pdf)
 
-[^5]:[U.S. bureau of justice statistics:Recidivism of Prisoners Released in 30 States in 2005: Patterns from 2005 to 2010](https://www.bjs.gov/content/pub/pdf/rprts05p0510.pdf)
+[5]:[U.S. bureau of justice statistics:Recidivism of Prisoners Released in 30 States in 2005: Patterns from 2005 to 2010](https://www.bjs.gov/content/pub/pdf/rprts05p0510.pdf)
 
 [6][中国经济网.专家评未成年人犯罪：不应降低刑事责任年龄](http://baijiahao.baidu.com/s?id=1648774746480393943&wfr=spider&for=pc)
 
