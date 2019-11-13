@@ -81,7 +81,7 @@
 
 [8][光明日报. 【光明时评】该降低刑事责任年龄么？](https://baijiahao.baidu.com/s?id=1605134216984887112&wfr=spider&for=pc)
 
-[9]张晓燕. 最低刑事责任年龄比较研究[J]. 商品与质量：理论研究(11):88-88.
+[9][张晓燕. 最低刑事责任年龄比较研究[J]. 商品与质量：理论研究(11):88-88.](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2011&filename=SPZN2011SB073&v=MjE2MTIzWTlDWjRSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VadWRzRnkzbFZydkpOajNSWUxHNEg5Q3Y=)
 
 
 # 选题角度及思考过程
