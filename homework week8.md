@@ -124,12 +124,14 @@ ggplot()+
 ```
 
 - 新图一
+
 ![](https://github.com/starlee1998/homework/blob/master/pic1.png)
 
 
 ## 图二：人均垃圾产量
 
 - 原图二
+
 ![](https://github.com/starlee1998/homework/blob/master/%E5%9B%BE%E4%BA%8C.png)
 
 ```R
@@ -213,7 +215,8 @@ theme(
 ```
 
 - 新图二
-![](https://github.com/starlee1998/homework/blob/master/homework%20week8.md)
+
+![](https://github.com/starlee1998/homework/blob/master/pic2_rectify.png)
 
 
 ## 我的困惑
