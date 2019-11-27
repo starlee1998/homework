@@ -1,6 +1,6 @@
 ## 关于垃圾的两张图
 
-# 图一：脱钩指数
+### 图一：脱钩指数
 
 - 原图一
 ![](https://github.com/starlee1998/homework/blob/master/%E5%9B%BE%E4%B8%80.png)
@@ -129,8 +129,8 @@ ggplot()+
 
 ## 图二：人均垃圾产量
 
-- 原图一
-![](https://github.com/starlee1998/homework/blob/master/%E5%9B%BE%E4%BA%8C.png)
+- 原图二
+![](https://github.com/starlee1998/homework/blob/master/pic2_rectify.png)
 
 ```R
 #图二代码
