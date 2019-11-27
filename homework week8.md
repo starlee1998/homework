@@ -130,7 +130,7 @@ ggplot()+
 ## 图二：人均垃圾产量
 
 - 原图二
-![](https://github.com/starlee1998/homework/blob/master/pic2_rectify.png)
+![](https://github.com/starlee1998/homework/blob/master/%E5%9B%BE%E4%BA%8C.png)
 
 ```R
 #图二代码
@@ -213,13 +213,14 @@ theme(
 ```
 
 - 新图二
-![](https://github.com/starlee1998/homework/blob/master/pic2.png)
+![](https://github.com/starlee1998/homework/blob/master/homework%20week8.md)
 
 
 ## 我的困惑
 
 1. ggplot2如何做双坐标轴（两个不同的Y轴）？我从网上查到几篇教程，但是没能套用成功
 2. 像图一那段比较长的注释（解释脱钩指数那段话），我只找到了把它加在图里面的方法，但是这样会显得图很拥挤。是否有办法把它像标题之类的东西一样加在图外面？
+3.我尝试了一下做地图，发现找世界地图的shp文件不太容易，在openstreetmap上只能一个国家一个国家选择，好像太麻烦了……
 
 
 ## 我的感受
